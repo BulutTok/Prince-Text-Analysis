@@ -50,16 +50,6 @@ install.packages('gridExtra')
    - Visualize important words using TF-IDF by song.
    - Analyze and visualize popular words per decade.
 
-## Example Plots
-
-### Most Frequently Used Words in Prince Lyrics
-![Most Frequently Used Words](example_plot1.png)
-
-### Important Words using TF-IDF by Song
-![Important Words using TF-IDF](example_plot2.png)
-
-### Top 10 Most Popular Words per Decade
-![Top 10 Most Popular Words per Decade](example_plot3.png)
 
 ## Contributing
 
